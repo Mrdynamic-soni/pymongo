@@ -39,4 +39,4 @@ def insert_document():
     
 #running api
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port = 2777)
+    app.run(host="0.0.0.0",port = 2777) #chnage port according to cloud
